@@ -593,7 +593,7 @@
       <!-- 2. AWS Serverless Contact Form -->
       <div class="project-card">
         <div class="project-media">
-          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Contact-Form/main/images/Contact Form AWS.png alt="AWS Serverless Contact Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Contact-Form/main/images/Contact Form AWS.png" alt="AWS Serverless Contact Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">CLOUD</span><span class="tag">2026</span></div>
@@ -618,7 +618,7 @@
         </div>
       </div>
 
-      */<!-- 4. Secure NGN Cloud Multimedia Simulation -->
+      <!-- 4. Secure NGN Cloud Multimedia Simulation -->
       <div class="project-card">
         <div class="project-media" style="position: relative; overflow: hidden; height: 220px;">
           <img src="image_a0e600.jpg" alt="NGN Network Topology" loading="lazy" style="width: 100%; height: auto; object-fit: cover; object-position: top; position: absolute; top: 0; left: 0;" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
@@ -644,7 +644,7 @@
           <div class="stack"><span class="chip">OSPF + MD5</span><span class="chip">ACL Hardening</span><span class="chip">Syslog / NTP</span></div>
           <a class="project-link" href="https://github.com/Alisoliiman/secure-enterprise-network" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
-      </div>/*
+      </div>
 
     </div>
     <p style="text-align:center; margin-top:16px;"><a href="https://github.com/Alisoliiman?tab=repositories" target="_blank" rel="noopener" class="project-link" style="justify-content:center;">See all repositories on GitHub <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a></p>
