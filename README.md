@@ -573,10 +573,10 @@
   <div class="wrap sec-body">
     <div class="project-grid reveal-stagger">
 
-      <!-- 1. Fully Serverless AWS ATS CV Platform (Flagship) -->
+      <!-- 1. Fully Serverless AWS ATS CV Platform (FLAGSHIP) -->
       <div class="project-card flagship">
         <div class="project-media">
-          <img src="https://raw.githubusercontent.com/AWS-Cloud-Security-Projects/Fully-Serverless-AWS-Cloud-Native-ATS-Platform/main/images/Fully-serverless-AWS-Cloud-Native-ATS-CVs-Generation-Application.drawio.png" alt="ATS CV Generator architecture diagram" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+          <img src="https://raw.githubusercontent.com/AWS-Cloud-Security-Projects/Fully-Serverless-AWS-Cloud-Native-ATS-Platform/main/images/Fully-serverless-AWS-Cloud-Native-ATS-CVs-Generation-Application.drawio.png" alt="ATS CV Generator architecture diagram" loading="lazy">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">FLAGSHIP</span><span class="tag">2026</span></div>
@@ -593,7 +593,7 @@
       <!-- 2. AWS Serverless Contact Form -->
       <div class="project-card">
         <div class="project-media">
-          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Contact-Form/main/images/Contact Form AWS.png" alt="AWS Serverless Contact Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Contact-Form/main/architecture.png" alt="AWS Serverless Contact Form" loading="lazy" onerror="this.src='https://via.placeholder.com/600x300/1e293b/00f2fe?text=AWS+Contact+Form+Architecture'">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">CLOUD</span><span class="tag">2026</span></div>
@@ -607,7 +607,7 @@
       <!-- 3. AWS Serverless Feedback Form -->
       <div class="project-card">
         <div class="project-media">
-          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Feedback-Form/main/images/Feedback Architecture.png" alt="AWS Serverless Feedback Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Feedback-Form/main/architecture.png" alt="AWS Serverless Feedback Form" loading="lazy" onerror="this.src='https://via.placeholder.com/600x300/1e293b/00f2fe?text=AWS+Feedback+Form+Architecture'">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">CLOUD</span><span class="tag">2026</span></div>
@@ -620,8 +620,8 @@
 
       <!-- 4. Secure NGN Cloud Multimedia Simulation -->
       <div class="project-card">
-        <div class="project-media" style="position: relative; overflow: hidden; height: 220px;">
-          <img src="image_a0e600.jpg" alt="NGN Network Topology" loading="lazy" style="width: 100%; height: auto; object-fit: cover; object-position: top; position: absolute; top: 0; left: 0;" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/secure-ngn-multimedia/main/topology.png" alt="NGN Cloud Multimedia Topology" loading="lazy" style="object-fit: cover; object-position: top;" onerror="this.src='https://via.placeholder.com/600x300/1e293b/00f2fe?text=NGN+Network+Topology'">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">TELECOM / CLOUD</span><span class="tag">2025</span></div>
@@ -634,8 +634,8 @@
 
       <!-- 5. Secure Enterprise Network & Cloud Infrastructure -->
       <div class="project-card">
-        <div class="project-media" style="height: 220px;">
-          <img src="image_a0e907.jpg" alt="Enterprise Network Architecture" loading="lazy" style="width: 100%; height: 100%; object-fit: contain; background: #000;" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/secure-enterprise-network/main/architecture.png" alt="Enterprise Network Architecture" loading="lazy" style="object-fit: contain; background: #0d1117;" onerror="this.src='https://via.placeholder.com/600x300/1e293b/00f2fe?text=Enterprise+Network+Architecture'">
         </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">NETWORK</span><span class="tag">2026</span></div>
@@ -647,7 +647,7 @@
       </div>
 
     </div>
-    <p style="text-align:center; margin-top:16px;"><a href="https://github.com/Alisoliiman?tab=repositories" target="_blank" rel="noopener" class="project-link" style="justify-content:center;">See all repositories on GitHub <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a></p>
+    <p style="text-align:center; margin-top:24px;"><a href="https://github.com/Alisoliiman?tab=repositories" target="_blank" rel="noopener" class="project-link" style="justify-content:center;">See all repositories on GitHub <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a></p>
   </div>
 </section>
   
