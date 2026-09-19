@@ -573,6 +573,7 @@
   <div class="wrap sec-body">
     <div class="project-grid reveal-stagger">
 
+      <!-- 1. Fully Serverless AWS ATS CV Platform (Flagship) -->
       <div class="project-card flagship">
         <div class="project-media">
           <img src="https://raw.githubusercontent.com/AWS-Cloud-Security-Projects/Fully-Serverless-AWS-Cloud-Native-ATS-Platform/main/images/Fully-serverless-AWS-Cloud-Native-ATS-CVs-Generation-Application.drawio.png" alt="ATS CV Generator architecture diagram" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
@@ -589,25 +590,39 @@
         </div>
       </div>
 
+      <!-- 2. AWS Serverless Contact Form -->
       <div class="project-card">
-        <div class="project-media"><div class="photo-slot">
-          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
-          Add a topology screenshot
-        </div></div>
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Contact-Form/main/images/Contact Form AWS.png alt="AWS Serverless Contact Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+        </div>
         <div class="project-body">
-          <div class="project-tagrow"><span class="tag">NETWORK</span><span class="tag">2026</span></div>
-          <h3>Secure Enterprise Network &amp; Cloud Infrastructure</h3>
-          <p>A secure two-branch enterprise network on Cisco Packet Tracer with a cloud-simulated backbone (Syslog, NTP), OSPF with MD5 authentication, and ACL / router-as-firewall hardening against MitM, spoofing and brute-force attempts.</p>
-          <div class="stack"><span class="chip">OSPF + MD5</span><span class="chip">ACL Hardening</span><span class="chip">Syslog / NTP</span></div>
-          <a class="project-link" href="https://github.com/Alisoliiman/secure-enterprise-network" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+          <div class="project-tagrow"><span class="tag">CLOUD</span><span class="tag">2026</span></div>
+          <h3>AWS Serverless Contact Form</h3>
+          <p>A robust and secure serverless contact form architecture leveraging Amazon API Gateway to receive requests, AWS Lambda for backend logic, DynamoDB for storage, and Amazon SES for automated email notifications.</p>
+          <div class="stack"><span class="chip">Lambda</span><span class="chip">DynamoDB</span><span class="chip">API Gateway</span><span class="chip">Amazon SES</span></div>
+          <a class="project-link" href="https://github.com/Alisoliiman/AWS-Serverless-Contact-Form" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
       </div>
 
+      <!-- 3. AWS Serverless Feedback Form -->
       <div class="project-card">
-        <div class="project-media"><div class="photo-slot">
-          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16v16H4z"/><path d="M4 9h16M9 4v16"/></svg>
-          Add a demo screenshot
-        </div></div>
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/Alisoliiman/AWS-Serverless-Feedback-Form/main/images/Feedback Architecture.png" alt="AWS Serverless Feedback Form Architecture" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+        </div>
+        <div class="project-body">
+          <div class="project-tagrow"><span class="tag">CLOUD</span><span class="tag">2026</span></div>
+          <h3>AWS Serverless Feedback Form</h3>
+          <p>An event-driven serverless application designed to securely collect, process, and store user feedback, built entirely on AWS native services for high availability and scalability.</p>
+          <div class="stack"><span class="chip">Lambda</span><span class="chip">DynamoDB</span><span class="chip">API Gateway</span><span class="chip">IAM</span></div>
+          <a class="project-link" href="https://github.com/Alisoliiman/AWS-Serverless-Feedback-Form" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+        </div>
+      </div>
+
+      */<!-- 4. Secure NGN Cloud Multimedia Simulation -->
+      <div class="project-card">
+        <div class="project-media" style="position: relative; overflow: hidden; height: 220px;">
+          <img src="image_a0e600.jpg" alt="NGN Network Topology" loading="lazy" style="width: 100%; height: auto; object-fit: cover; object-position: top; position: absolute; top: 0; left: 0;" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
+        </div>
         <div class="project-body">
           <div class="project-tagrow"><span class="tag">TELECOM / CLOUD</span><span class="tag">2025</span></div>
           <h3>Secure NGN Cloud Multimedia Simulation</h3>
@@ -617,53 +632,25 @@
         </div>
       </div>
 
+      <!-- 5. Secure Enterprise Network & Cloud Infrastructure -->
       <div class="project-card">
-        <div class="project-media"><div class="photo-slot">
-          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg>
-          Add a diagram / screenshot
-        </div></div>
-        <div class="project-body">
-          <div class="project-tagrow"><span class="tag">NETWORK</span><span class="tag">2025</span></div>
-          <h3>Enterprise Network Design — Multi-VLAN &amp; STP</h3>
-          <p>An enterprise switching topology optimized with Spanning-Tree Protocol for loop elimination, plus dynamic Layer-3 switch inter-VLAN routing across departments.</p>
-          <div class="stack"><span class="chip">STP</span><span class="chip">Inter-VLAN Routing</span><span class="chip">L3 Switching</span></div>
-          <a class="project-link" href="https://github.com/Alisoliiman/multi-vlan-stp-design" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+        <div class="project-media" style="height: 220px;">
+          <img src="image_a0e907.jpg" alt="Enterprise Network Architecture" loading="lazy" style="width: 100%; height: 100%; object-fit: contain; background: #000;" onerror="this.parentElement.innerHTML='<div class=&quot;photo-slot&quot;>Architecture diagram — add a live screenshot here</div>'">
         </div>
-      </div>
-
-      <div class="project-card">
-        <div class="project-media"><div class="photo-slot">
-          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6.5 12a5.5 5.5 0 0111 0v3a2 2 0 002 2H4.5a2 2 0 002-2v-3z"/><path d="M9 21h6"/></svg>
-          Add a dashboard screenshot
-        </div></div>
         <div class="project-body">
-          <div class="project-tagrow"><span class="tag">IOT / WEB</span><span class="tag">2026</span></div>
-          <h3>MidConnect — Medical Elderly Care IoT Platform</h3>
-          <p>A full-stack IoT tracking platform: a real-time PHP/HTML/CSS web app paired with an ESP32 communication layer for SpO2, heart rate and GPS signals, streaming vitals in real time for remote monitoring.</p>
-          <div class="stack"><span class="chip">ESP32</span><span class="chip">PHP</span><span class="chip">Real-time Monitoring</span></div>
-          <a class="project-link" href="https://github.com/Alisoliiman/midconnect-iot" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
+          <div class="project-tagrow"><span class="tag">NETWORK</span><span class="tag">2026</span></div>
+          <h3>Secure Enterprise Network &amp; Cloud Infrastructure</h3>
+          <p>A secure two-branch enterprise network on Cisco Packet Tracer with a cloud-simulated backbone (Syslog, NTP), OSPF with MD5 authentication, and ACL / router-as-firewall hardening against MitM, spoofing and brute-force attempts.</p>
+          <div class="stack"><span class="chip">OSPF + MD5</span><span class="chip">ACL Hardening</span><span class="chip">Syslog / NTP</span></div>
+          <a class="project-link" href="https://github.com/Alisoliiman/secure-enterprise-network" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
         </div>
-      </div>
-
-      <div class="project-card">
-        <div class="project-media"><div class="photo-slot">
-          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2v4M12 18v4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M2 12h4M18 12h4M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"/></svg>
-          Add a sensor-rig photo
-        </div></div>
-        <div class="project-body">
-          <div class="project-tagrow"><span class="tag">IOT</span><span class="tag">2025</span></div>
-          <h3>Rainfall Detection IoT Project</h3>
-          <p>A unified, responsive IoT monitoring environment that aggregates and processes multi-sensor environmental data simultaneously for early rainfall detection.</p>
-          <div class="stack"><span class="chip">Sensor Fusion</span><span class="chip">Real-time Dashboard</span></div>
-          <a class="project-link" href="https://github.com/Alisoliiman/rainfall-detection-iot" target="_blank" rel="noopener">View repository <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
-        </div>
-      </div>
+      </div>/*
 
     </div>
-    <p style="text-align:center; margin-top:8px;"><a href="https://github.com/Alisoliiman?tab=repositories" target="_blank" rel="noopener" class="project-link" style="justify-content:center;">See all repositories on GitHub <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a></p>
+    <p style="text-align:center; margin-top:16px;"><a href="https://github.com/Alisoliiman?tab=repositories" target="_blank" rel="noopener" class="project-link" style="justify-content:center;">See all repositories on GitHub <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M7 7h10v10"/></svg></a></p>
   </div>
 </section>
-
+  
 <section id="services">
   <div class="wrap sec-head reveal">
     <div class="sec-index mono">SERVICES</div>
