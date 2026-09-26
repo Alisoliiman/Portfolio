@@ -476,7 +476,7 @@
   </div>
   <div class="wrap about-grid">
     <div class="about-text reveal">
-      <p>I'm a final-year Communications Engineering student at ECCAT, Suez Canal University, currently training in AWS cloud security through the Digital Egypt Builders Initiative (DEPI). My path started with CCNA — configuring routers, switches and VLANs — and has grown into deploying and securing cloud infrastructure: IAM policies, VPCs, EC2, load balancers, Lambda and DynamoDB.</p>
+      <p>I am a Telecommunications and Cloud Engineer, currently training in AWS cloud security through the Digital Egypt Builders Initiative (DEPI). My technical foundation started with CCNA — configuring routers, switches, and VLANs — and has evolved into deploying and securing cloud infrastructure, including IAM policies, VPCs, EC2, load balancers, Lambda, and DynamoDB.</p>
       <p>I take on freelance projects for small businesses, startups and fellow students who need their cloud or network set up correctly the first time: a secure AWS environment, a hardened office network, or a Linux server that's actually built to be maintained. I explain what I build in plain language and hand over documentation, not just a working system.</p>
     </div>
     <div class="fact-strip reveal-stagger">
